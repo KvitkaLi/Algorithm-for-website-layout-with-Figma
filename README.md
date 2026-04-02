@@ -164,38 +164,9 @@ wrapper
 
 ________________________________________  
 ### Приклад відповідної HTML-структури  
-<div class="wrapper">  
-<header class="header">  
-   <div class="header__container">  
-      <div class="logo"></div>  
-      <nav class="menu"></nav>  
-   </div>  
-</header>  
+![template](https://github.com/user-attachments/assets/3b5a8bb2-f7a3-4711-bdf7-4b9c2f74656c)
 
-<main class="page">  
-
-   <section class="hero"></section>  
-
-   <section class="about">  
-      <div class="about__container"></div>  
-   </section>  
-
-   <section class="cards">  
-      <div class="cards__container">  
-         <div class="card"></div>  
-         <div class="card"></div>  
-         <div class="card"></div>  
-      </div>  
-   </section> 
-
-</main>  
-
-<footer class="footer">  
-   <div class="footer__container"></div>  
-</footer>  
-
-</div> 
-Header → верх сайту (логотип, меню).  
+Header → верх сайту (логотип, меню).    
 Main → основний контент.  
 Footer → підвал (контакти, копірайт).  
 
