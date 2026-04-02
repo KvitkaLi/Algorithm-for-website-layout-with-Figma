@@ -164,7 +164,7 @@ wrapper
 
 ________________________________________  
 ### Приклад відповідної HTML-структури  
-![template](https://github.com/user-attachments/assets/3b5a8bb2-f7a3-4711-bdf7-4b9c2f74656c)
+![template](https://github.com/user-attachments/assets/2997e3d4-b0fe-400f-ae96-40fa3a049e05)
 
 Header → верх сайту (логотип, меню).    
 Main → основний контент.  
